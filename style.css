@@ -260,3 +260,9 @@ h1 {
         transform: translateY(-20px);
     }
 }
+
+.logo-wpp {
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
